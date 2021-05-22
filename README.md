@@ -11,5 +11,13 @@ functionality for the car park system.
 ## OOP Design
 
 <p align="center">
-  <img src="https://github.com/haxamxam/JavaSwingGUIParkingSystem/blob/main/oop.png" width="550" title="hover text">
+  <img src="https://github.com/haxamxam/JavaSwingGUIParkingSystem/blob/main/oop.png" width="550" title="OOP">
+</p>
+
+## User Interface
+
+
+<p align="center">
+  <img src="https://github.com/haxamxam/JavaSwingGUIParkingSystem/blob/main/GUIv.png" width="550" title="Vacant">
+  <img src="https://github.com/haxamxam/JavaSwingGUIParkingSystem/blob/main/GUIo.png" width="550" title="Occupied">
 </p>
