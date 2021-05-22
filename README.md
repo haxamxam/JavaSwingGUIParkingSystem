@@ -18,6 +18,6 @@ functionality for the car park system.
 
 
 <p align="center">
-  <img src="https://github.com/haxamxam/JavaSwingGUIParkingSystem/blob/main/GUIv.png" width="550" title="Vacant">
-  <img src="https://github.com/haxamxam/JavaSwingGUIParkingSystem/blob/main/GUIo.png" width="550" title="Occupied">
+  <img src="https://github.com/haxamxam/JavaSwingGUIParkingSystem/blob/main/GUIv.png" width="750" title="Vacant">
+  <img src="https://github.com/haxamxam/JavaSwingGUIParkingSystem/blob/main/GUIo.png" width="750" title="Occupied">
 </p>
