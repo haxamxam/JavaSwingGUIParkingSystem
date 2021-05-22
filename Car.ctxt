@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ Car\ Class\ -\ The\ Car\ class\ is\ an\ extension\ of\ vehicle\ class\r\n\ It\ provides\ information\ about\ registration\ and\ owner\ of\ the\ car\r\n\r\n\ @author\ Hamza\ Suhail\r\n\ @version\ Java\ 11.0.2,\ Date\:\ 31/03/2021\r\n
+comment1.params=rego\ ownerName
+comment1.target=Car(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ a\ Car\r\n\r\n@param\ rego,\ The\ registration\ number\ of\ the\ vehicle\r\n@param\ ownerName,\ The\ owner\ of\ the\ vehicle\r\n\r\n
+comment2.params=
+comment2.target=java.lang.String\ getrego()
+comment2.text=\r\n\ Gets\ the\ registration\ number\ of\ the\ car\r\n\r\n@return\ rego,\ The\ registration\ number\ of\ the\ vehicle\r\n\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Displays\ information\ about\ the\ Car\r\n\r\n@return\ rego,\ The\ registration\ number\ of\ the\ vehicle\r\n@return\ getArrivalTime(),\ The\ arrival\ time\ of\ the\ car\r\n@return\ getOwner(),\ The\ owner\ of\ the\ car\r\n
+numComments=4
